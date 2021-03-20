@@ -1,4 +1,4 @@
-pythorch==1.7.1
+torch==1.7.1
 librosa==0.8.0
 numpy==1.19.5
 moviepy==1.0.3

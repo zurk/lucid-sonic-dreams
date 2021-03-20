@@ -1,4 +1,4 @@
-NAME?=lucid-sonic-dreams
+NAME?=lucid-sonic-dreams-pytorch
 COMMAND?=
 OPTIONS?=
 
